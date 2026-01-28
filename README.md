@@ -1,3 +1,5 @@
+
+# API-First Video App 
 🎯 Assignment Goal
 
 Build a React Native app that acts as a thin client and communicates entirely with a Flask backend. The app fetches videos from the backend and does not expose YouTube URLs directly.
